@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on iDiving</title>
-    <link>/tags/</link>
+    <link>http://idiving2011.github.io/tags/</link>
     <description>Recent content in Tags on iDiving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="http://idiving2011.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advice</title>
-      <link>/tags/advice/</link>
+      <link>http://idiving2011.github.io/tags/advice/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/advice/</guid>
+      <guid>http://idiving2011.github.io/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI</title>
-      <link>/tags/ai/</link>
+      <link>http://idiving2011.github.io/tags/ai/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/ai/</guid>
+      <guid>http://idiving2011.github.io/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>/tags/android/</link>
+      <link>http://idiving2011.github.io/tags/android/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/android/</guid>
+      <guid>http://idiving2011.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Company</title>
-      <link>/tags/company/</link>
+      <link>http://idiving2011.github.io/tags/company/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/company/</guid>
+      <guid>http://idiving2011.github.io/tags/company/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mechine</title>
-      <link>/tags/mechine/</link>
+      <link>http://idiving2011.github.io/tags/mechine/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/mechine/</guid>
+      <guid>http://idiving2011.github.io/tags/mechine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/tags/news/</link>
+      <link>http://idiving2011.github.io/tags/news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>http://idiving2011.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retro</title>
-      <link>/tags/retro/</link>
+      <link>http://idiving2011.github.io/tags/retro/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/retro/</guid>
+      <guid>http://idiving2011.github.io/tags/retro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>http://idiving2011.github.io/tags/technology/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/technology/</guid>
+      <guid>http://idiving2011.github.io/tags/technology/</guid>
       <description></description>
     </item>
     

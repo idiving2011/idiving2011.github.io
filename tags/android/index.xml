@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on iDiving</title>
-    <link>/tags/android/</link>
+    <link>http://idiving2011.github.io/tags/android/</link>
     <description>Recent content in Android on iDiving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="http://idiving2011.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-3/</link>
+      <link>http://idiving2011.github.io/blog/blog-post-3/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/blog/blog-post-3/</guid>
+      <guid>http://idiving2011.github.io/blog/blog-post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
