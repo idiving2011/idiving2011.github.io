@@ -2,71 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on iDiving</title>
-    <link>https://idiving2011.github.io/tags/</link>
+    <link>https://examplesite.org/tags/</link>
     <description>Recent content in Tags on iDiving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://idiving2011.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article</title>
-      <link>https://idiving2011.github.io/tags/article/</link>
+      <title>(假日班)</title>
+      <link>https://examplesite.org/tags/%E5%81%87%E6%97%A5%E7%8F%AD/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://idiving2011.github.io/tags/article/</guid>
+      <guid>https://examplesite.org/tags/%E5%81%87%E6%97%A5%E7%8F%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://examplesite.org/tags/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://examplesite.org/tags/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>https://idiving2011.github.io/tags/fashion/</link>
+      <link>https://examplesite.org/tags/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://idiving2011.github.io/tags/fashion/</guid>
+      <guid>https://examplesite.org/tags/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finance</title>
-      <link>https://idiving2011.github.io/tags/finance/</link>
+      <link>https://examplesite.org/tags/finance/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://idiving2011.github.io/tags/finance/</guid>
+      <guid>https://examplesite.org/tags/finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://idiving2011.github.io/tags/food/</link>
+      <link>https://examplesite.org/tags/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://idiving2011.github.io/tags/food/</guid>
+      <guid>https://examplesite.org/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://idiving2011.github.io/tags/nature/</link>
+      <link>https://examplesite.org/tags/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://idiving2011.github.io/tags/nature/</guid>
+      <guid>https://examplesite.org/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://idiving2011.github.io/tags/philosophy/</link>
+      <link>https://examplesite.org/tags/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://idiving2011.github.io/tags/philosophy/</guid>
+      <guid>https://examplesite.org/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://idiving2011.github.io/tags/photos/</link>
+      <link>https://examplesite.org/tags/photos/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://idiving2011.github.io/tags/photos/</guid>
+      <guid>https://examplesite.org/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>開放水域潛水員課程</title>
+      <link>https://examplesite.org/tags/%E9%96%8B%E6%94%BE%E6%B0%B4%E5%9F%9F%E6%BD%9B%E6%B0%B4%E5%93%A1%E8%AA%B2%E7%A8%8B/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://examplesite.org/tags/%E9%96%8B%E6%94%BE%E6%B0%B4%E5%9F%9F%E6%BD%9B%E6%B0%B4%E5%93%A1%E8%AA%B2%E7%A8%8B/</guid>
       <description></description>
     </item>
     

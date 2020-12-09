@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on iDiving</title>
-    <link>https://idiving2011.github.io/about/</link>
+    <link>https://examplesite.org/about/</link>
     <description>Recent content in About on iDiving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://idiving2011.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
